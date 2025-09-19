@@ -1,4 +1,4 @@
-1.2.0
+2.0.0
 - Removes rest/v2 pulse functions
 - Fixes rest/v2 margin & funding info functions
 - Fixes rest/v2 offers function
